@@ -1,0 +1,10 @@
+#infoDiv {
+    display: none;
+  }
+  
+  #infoDiv.show {
+    display: block;
+    text-align: center;
+    color:blue;
+    font:bold
+  }
